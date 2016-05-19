@@ -1,2 +1,3 @@
 # Hello_World
 First Sample Repository
+I am Post Graduate student in Compueter Science and Engineering. I have completed my Bachelors Degree in Computer Science and Engineering from UCETW. Web Development is my passion, I Know HTML,CSS and JavaScript along with these i love developng android applications. I believe that women's have capability to work on advanced research field. So I am the initiator for Spoken Tutorial Project of IIT Bombay in our college Which is "TALK TO A TEACHER PROJECT" more than 200 girls from ULTRA College Of Enginnering and Technology For Women got benefit from this project. Madurai is my home town which is situated in south part of Tamil nadu in India.
